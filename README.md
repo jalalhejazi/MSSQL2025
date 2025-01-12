@@ -64,6 +64,11 @@ The integration of SQL Server with GenAI is just the beginning. As GenAI models 
 - Advanced features like fine-tuning models directly from SQL Server.
 - Expanded capabilities for real-time AI applications.
 
+
+## Sample chatbot application
+For more take a look at https://github.com/Azure-Samples/fabric-rag-langchain-chainlit
+Repository contains sample chatbot application built using SQL database in Microsoft Fabric as a vector store and search, Langchain and Chainlit for interacting with LLM and providing a chat interface.
+
+
 ## Conclusion
 SQL Server 2025's GenAI integration empowers data engineers to unlock new levels of productivity and innovation. By bringing AI directly into the database environment, this feature enables smarter applications and more efficient workflows.
-
